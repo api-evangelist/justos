@@ -1,8 +1,13 @@
 aid: justos
 name: Justos
-description: 'Justos is a company surfaced as a portfolio company of ribbit-capital and added to the API
-  Evangelist network as a stub for enrichment. Sector: insurtech. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'Justos is a Brazilian digital auto insurance insurtech founded in 2020 and headquartered in
+  Barueri, São Paulo. Operating as a managing general agent (MGA), Justos uses smartphone-collected driving
+  data (telematics) to reward safe drivers with lower, usage-based pricing — advertised as up to 30% cheaper
+  than traditional plans — plus weekly bonuses and perks like gas vouchers, maintenance, and ride credits.
+  Its products are distributed digitally through a consumer mobile app and a broker (corretor) portal, with
+  claims tracked in-app and 24/7 support. Backed by Ribbit Capital, Kaszek, SoftBank Latin America and GGV;
+  its auto insurance is underwritten by Companhia Excelsior de Seguros (SUSEP code 05690). No public developer
+  API, OpenAPI, or developer portal is published at this time.'
 url: https://raw.githubusercontent.com/api-evangelist/justos/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +15,30 @@ x-backed-by:
 - ribbit-capital
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/63bdbbd2c764e85f370a866e/65b2d4926bde9edb1bee3101_whatsapp_preview.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Insurtech
+- Insurance
+- Auto Insurance
+- Telematics
+- Usage-Based Insurance
+- Brazil
+- MGA
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +48,24 @@ maintainers:
 common:
 - type: Website
   url: https://www.justos.com.br
+- type: About
+  url: https://www.justos.com.br/sobre
+- type: Blog
+  url: https://www.justos.com.br/blog
+- type: Support
+  url: https://justosseguros.zendesk.com/hc/pt-br
+- type: SignUp
+  url: https://corretores.justos.com.br/cadastro
+- type: TermsOfService
+  url: https://www.justos.com.br/termos-de-uso
+- type: PrivacyPolicy
+  url: https://www.justos.com.br/legal-privacy
+- type: DomainSecurity
+  url: security/justos-domain-security.yml
+- type: LLMsTxt
+  url: llms/justos-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

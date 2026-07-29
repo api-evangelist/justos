@@ -1,0 +1,31 @@
+# Justos
+
+> Justos is a Brazilian digital auto insurance insurtech (founded 2020, Barueri, São Paulo) that operates as a managing general agent and uses smartphone-collected telematics to reward safe drivers with usage-based, lower-cost auto insurance. Products are distributed through a consumer mobile app and a broker portal. No public developer API or OpenAPI is published at this time.
+
+## Company
+- [Website](https://www.justos.com.br): Consumer homepage — Seguro Auto Mensal.
+- [Sobre a Justos](https://www.justos.com.br/sobre): About the company.
+- [Nosso Jeito](https://www.justos.com.br/nossojeito): How Justos works.
+- [Governança](https://www.justos.com.br/governanca): Corporate governance.
+- [Blog](https://www.justos.com.br/blog): Articles and tips on auto insurance.
+
+## Support
+- [Central de Ajuda (Zendesk)](https://justosseguros.zendesk.com/hc/pt-br): Help center and FAQ (Perguntas Frequentes).
+- SAC: 0800 591-2259 · WhatsApp: (11) 5468-6735
+- [Canal de Denúncias](https://my.safe.space/company/justos): Whistleblower channel.
+
+## Broker (Corretor)
+- [Portal Corretores](https://corretores.justos.com.br/): Broker portal.
+- [Cadastro de Corretor](https://corretores.justos.com.br/cadastro): Broker registration / sign-up.
+
+## Legal
+- [Termos de Uso](https://www.justos.com.br/termos-de-uso): Terms of use.
+- [Condições Gerais](https://www.justos.com.br/nossostermos): General conditions.
+- [Política de Privacidade](https://www.justos.com.br/legal-privacy): Privacy policy. DPO: dpo@justos.com
+
+## Apps
+- [App download](https://links.justos.com.br/download): Consumer mobile app (iOS/Android).
+
+## Notes
+- No public REST API, OpenAPI, MCP server, SDKs, or developer portal were found (2026-07-19).
+- Auto insurance underwritten by Companhia Excelsior de Seguros (SUSEP code 05690).
